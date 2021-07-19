@@ -29,5 +29,11 @@ Remember that for /api/scores you need to be authenticated so you have to login 
 Note:
 There are several GET depending on what you provide (single id, date or team name). For more information contact me.
 
+If you call the endpoint for teams like: [this](http://pptak-fakefootballapi.herokuapp.com/api/teams) for example in Postman, your output should be similar:
+![photo](https://raw.githubusercontent.com/ptakpiotr/FakeFootballAPI/master/img.png)
+
+Note:
+For this call you do not have to be authenticated.
+
 ## Updates
 *
